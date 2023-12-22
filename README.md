@@ -1,2 +1,3 @@
-# CRUD
-A GitHub repository dedicated to performing CRUD operations on data. It includes the code needed to create, read, update, and delete the database. The code is organized systematically.
+# employee-crud-app 
+#Node.js CRUD Operations
+A branch containing code that performs CRUD operations on employee data. The application includes the code necessary to add, read, update and delete to and from the database using NodeJS
