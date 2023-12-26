@@ -1,0 +1,36 @@
+.button {
+  display: flex;
+  text-decoration: none;
+}
+
+.buttonU,
+.buttonD {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-right: 5px;
+  text-decoration: none;
+  color: white;
+}
+
+.buttonU {
+  background-color: #1c60ec;
+}
+
+.buttonD {
+  background-color: #ed4646;
+}
+
+.buttonU:hover {
+  background-color: #2356c1;
+  color: #fff;
+}
+
+.buttonD:hover {
+  background-color: #c13434;
+  color: #fff;
+}
+

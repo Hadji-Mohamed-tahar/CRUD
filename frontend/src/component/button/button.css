@@ -1,0 +1,16 @@
+.ButtonS{
+  background-color: #339058;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 80px;
+  margin-right: 3px;
+}
+
+.ButtonS:hover {
+  background-color: #2356c1; 
+}
