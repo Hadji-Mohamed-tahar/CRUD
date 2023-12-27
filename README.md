@@ -10,13 +10,13 @@ This GitHub repository is dedicated to facilitating CRUD operations on data, pro
 - **Update:** Modifying existing data entries within the database with the corresponding code.
 - **Delete:** Removing unwanted data entries from the database with the appropriate code.
 
-## Technologies:
+##Techniques:
 
-Different technologies are used in each branch; you can find all the languages and technologies used in each branch when clicking on it.
+Different techniques are used in each branch. You can find all the languages and technologies used in each branch by clicking on them.
 
-The codebase is systematically structured to make it easy for developers to navigate and comprehend. Whether you are looking to integrate CRUD operations into an existing project or build a new one from scratch, this repository provides a solid foundation.
+The code is systematically designed to make it easier for developers to navigate and understand. Whether you're looking to integrate CRUD operations into an existing project or create a new project from scratch, this repository provides a solid foundation.
 
-Feel free to explore the code, contribute, or use it as a reference for your projects. If you have any questions or suggestions, please don't hesitate to reach out.
+Feel free to explore the code, contribute to it, or use it as a reference for your projects. If you have any questions or suggestions, please feel free to contact us.
 
 Happy coding!
-Mohamed Tahar
+Muhammad Taher
